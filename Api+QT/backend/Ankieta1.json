@@ -1,0 +1,15 @@
+[
+    {   "id":1,
+        "pytanie":"P",
+        "odpowiedzi":[
+            {
+                "odpowiedz":"Auto",
+                "symbol":"A"
+            },
+            {
+                "odpowiedz":"czarny",
+                "symbol":"B"
+            }
+        ]
+    }
+]
