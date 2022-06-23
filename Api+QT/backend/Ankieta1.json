@@ -1,14 +1,36 @@
 [
     {   "id":1,
-        "pytanie":"P",
+        "pytanie":"Wybierz typ Auta",
         "odpowiedzi":[
             {
-                "odpowiedz":"Auto",
+                "odpowiedz":"Sedan",
                 "symbol":"A"
             },
             {
-                "odpowiedz":"czarny",
+                "odpowiedz":"Pick-up",
                 "symbol":"B"
+            },
+            {
+                "odpowiedz":"Mini",
+                "symbol":"C"
+            }
+
+        ]
+    },
+    {   "id":2,
+        "pytanie":"Wybierz silnik",
+        "odpowiedzi":[
+            {
+                "odpowiedz":"Elektryczny",
+                "symbol":"A"
+            },
+            {
+                "odpowiedz":"Bezynowy",
+                "symbol":"B"
+            },
+            {
+                "odpowiedz":"Hybryda",
+                "symbol":"C"
             }
         ]
     }

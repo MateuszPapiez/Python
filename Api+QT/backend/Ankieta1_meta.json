@@ -1,0 +1,14 @@
+{
+    "1":{
+        "category":"spalanie",
+        "A":1,
+        "B":0,
+        "C":-1
+    },
+    "2":{
+        "category":"aerodynamika",
+        "A":0,
+        "B":1,
+        "C":0
+    }
+}
